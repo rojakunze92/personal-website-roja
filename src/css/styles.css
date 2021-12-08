@@ -1,0 +1,15 @@
+@import "base.css";
+@import "page-header.css";
+
+h2 {
+  background-color: rgb(248, 220, 225);
+  font-family: "Comfortaa", cursive;
+  font-weight: 700;
+  padding: 20px;
+}
+
+h3 {
+  color: pink;
+  font-family: "Comfortaa", cursive;
+  padding: 30px;
+}

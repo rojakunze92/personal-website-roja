@@ -1,0 +1,38 @@
+header {
+  background-color: lightgray;
+  color: black;
+}
+
+.page-headline {
+  font-family: "Bebas Neue", cursive;
+  font-size: 2em;
+}
+
+.navigation {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 15%;
+}
+.navigation a {
+  margin: 10px;
+  font-size: 0.9em;
+  font-family: "Bebas Neue", cursiv;
+}
+
+.pageheader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15px;
+}
+
+.titlepicture {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.subtitle {
+  font-size: 0.8em;
+}

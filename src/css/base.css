@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+p {
+  color: rgb(71, 71, 71);
+  font-family: "Comfortaa", cursive;
+  padding: 20px 30px 20px 30px;
+}
+
+li {
+  font-family: "Comfortaa", cursive;
+  color: pink;
+}
+
+@media (min-width: 640px) {
+  body {
+    background-color: rgb(241, 237, 237);
+  }
+  
